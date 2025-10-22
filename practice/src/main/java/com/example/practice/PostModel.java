@@ -7,4 +7,6 @@ public class PostModel {
     String content;
     String author;
 
+    String mediaUrl;
+
 }
