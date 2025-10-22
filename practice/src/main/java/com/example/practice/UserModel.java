@@ -1,4 +1,5 @@
 package com.example.practice;
 
-public class featuredashuser {
+public class UserModel {
+guru
 }
