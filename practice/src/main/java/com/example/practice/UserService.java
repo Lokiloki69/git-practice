@@ -1,5 +1,4 @@
 package com.example.practice;
 
-public class UserModel {
-Lokesh
+public class UserService{
 }
